@@ -1,0 +1,70 @@
+.box{
+
+width: 20rem;
+height: 100px;
+background-color: violet;
+}
+
+.box2{
+	width: 100px;
+	height: 100px;
+}
+
+.blue{
+	background-color: blue;
+	padding: 15px;
+	border: 5px solid grey;
+	margin: 50px;
+}
+.orange{
+	background-color: orange;
+	padding: 15px;
+	border: 5px solid black;
+	margin: 50px;
+}
+
+.header{
+	height: 100px;
+	background-color: brown;
+}
+
+
+.container{
+	overflow: hidden;
+	}
+.blog{
+	float: left;
+	width: 40%;
+	height: 200px;
+	background-color: green;
+}
+.contact{
+	float: right;
+	width: 60%;
+	height: 200px;
+	background-color: blue;
+}
+
+.item{
+	float: left;
+	height: 100px;
+    width: 33.33%;
+
+}
+.pink{
+	background-color: pink;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.red{
+	background-color: red;
+}
+
+
+.footer{
+	height: 100px;
+	background-color: black;
+}
